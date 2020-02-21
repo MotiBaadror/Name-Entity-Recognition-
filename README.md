@@ -6,8 +6,8 @@ The entity-annotated-corpus folder have data.
 
 ## The steps for understanding how this algorithm work.
 
-    Lets say we see **Los Angels** in the sentence then word *Los* (**B**) is beginning of this pair of words and word *Angeles* (**I**)is Intermediate
+Lets say we see **Los Angels** in the sentence then word *Los* (**B**) is beginning of this pair of words and word *Angeles* (**I**)is Intermediate
 
 **BIO tagging**
-    I live in los angeles 
-    O O    O  B   I
+I live in los angeles 
+O O    O  B   I
