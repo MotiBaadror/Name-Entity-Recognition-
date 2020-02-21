@@ -10,6 +10,6 @@ Lets say we see **Los Angels** in the sentence then word *Los* (**B**) is beginn
 
 **BIO tagging**
 ```
-I live in los angeles 
-O O    O  B   I
+Sentence :I live in los angeles 
+Tags:     O O    O  B   I
 ```
