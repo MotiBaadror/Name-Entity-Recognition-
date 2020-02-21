@@ -1,8 +1,8 @@
 # Name Entity Recognition 
 This repo shows the notebook describing name entity recognition from screatch. The tagging used here is BIO tagging. B-beginning, I-inside, O-outside
 
-## Dataset used here is collected from kaggle.com 
-The entity-annotated-corpus folder have data.
+## Dataset used here is collected from [Kaggle](kaggle.com) 
+The dataset can be found [here](https://github.com/MotiBaadror/Name-Entity-Recognition-/tree/master/entity-annotated-corpus).
 
 ## The steps for understanding how this algorithm work.
 
