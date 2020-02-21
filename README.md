@@ -9,7 +9,7 @@ The dataset can be found [here](https://github.com/MotiBaadror/Name-Entity-Recog
 Lets say we see **Los Angels** in the sentence then word *Los* (**B**) is beginning of this pair of words and word *Angeles* (**I**)is Intermediate
 
 **BIO tagging**
-```bash
+```
 I live in los angeles 
 O O    O  B   I
 ```
